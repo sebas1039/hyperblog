@@ -2,4 +2,6 @@ Esta es la historia de sebastian
 y sus primeros inicios en GIT
 espero aprender mucho.
 
+master 1
+
 Mañana nos enfocaremos en su vida laboral
